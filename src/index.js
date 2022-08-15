@@ -139,7 +139,6 @@ todosListEl.addEventListener('click', (event) => {
 
 const clearAllBtn = document.querySelector('.clear-completed');
 const clearAll = () => {
-  // const localData = JSON.parse(localStorage.getItem('todos'));
   todos = todos.filter((i) => !i.checked);
   updateId();
   localStorage.setItem('todos', JSON.stringify(todos));
