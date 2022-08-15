@@ -1,5 +1,4 @@
 import kebab from '../assets/kebab.svg';
-import toDoArr from './toDoArray.js';
 
 const listItem = document.getElementById('list-item');
 
