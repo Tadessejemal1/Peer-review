@@ -1,6 +1,6 @@
 # To Do App
 
->  This project is using webpack to structure To-do-list app. It is a minimal implementation of a To Do list application
+This project is using webpack to structure To-do-list app. It is a minimal implementation of a To Do list application
 
 ## Built With
 
@@ -17,8 +17,7 @@ To get a local copy up and running follow these simple example steps.
  - [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/)
 
 ### Setup
-  1. Download the **Zip** file or clone the repo with: ```bash git clone [https://github.com/Tadessejemal1/
-Awosome-todo-list web.git-  https://github.com/Tadessejemal1/To-Do-List-web.git/)
+  1. Download the **Zip** file or clone the repo with: ```bash https://github.com/Tadessejemal1/To-Do-List-web.git/)
   2.  ``` To access cloned directory run: ```bash cd/To-Do-List-web``` 
   3. Open it with the live server or just  open the "index.html" file with any browser
 
